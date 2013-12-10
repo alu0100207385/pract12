@@ -1,4 +1,4 @@
-require "bundler/gem_tasks"#!/bin/env rake
+#!/bin/env rake
 require "bundler/gem_tasks"
 
 $:.unshift File.dirname(__FILE__) + 'lib'

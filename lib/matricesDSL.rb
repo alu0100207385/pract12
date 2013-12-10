@@ -159,9 +159,9 @@ end
 
 # version 3,4: Estas son las mejores versiones, pues se elimina la redundancia y hace un codigo mas entendible y facil de usar
 # -----------
-ejemplo = MatrizDSL.new("max") do
+ejemplo = MatrizDSL.new("sum") do
   option "Densas"
-  option "fichero"
+#   option "fichero"
 #   operand [[1,2,3],[4,5,6],[7,8,9]]
   operand [[1,fraccion(2,3),3],[4,5,6],[7,8,9]]
   operand [[1,1,1],[1,1,1],[1,1,1]]

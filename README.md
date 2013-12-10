@@ -8,18 +8,19 @@ Partiendo de la practica anterior, vamos a incluir las siguientes modificaciones
 
 ## Program options
 
-rake dsl	 # Ejecutar MatrizDSL practica 12
-rake bin         # Ejecutar programa
-rake build       # Build matrices-0.0.1.gem into the pkg directory
-rake doc         # Ejecutar con documentacion
-rake install     # Build and install matrices-0.0.1.gem into system gems
-rake release     # Create tag v0.0.1 and build and push matrices-0.0.1.gem to Rubygems
-rake spec        # Run RSpec code examples
-rake spec_local  # Ejecutar las espectativas de la clase Matriz e hijas
-rake test        # Ejecutar tests
-rake thtml       # Ejecutar las espectativas de la clase Matriz version html
-rake		 # Ejecuta la tarea por defecto $rake spec
-rake -T		 # Muestra las distintas opciones del rake para el programa implementado
+rake dsl    # Ejecutar MatrizDSL practica 12
+rake bin    # Ejecutar programa
+rake build    # Build matrices-0.0.1.gem into the pkg directory
+rake doc    # Ejecutar con documentacion
+rake install    # Build and install matrices-0.0.1.gem into system gems
+rake release    # Create tag v0.0.1 and build and push matrices-0.0.1.gem to Rubygems
+rake spec    # Run RSpec code examples
+rake spec_local    # Ejecutar las espectativas de la clase Matriz e hijas
+rake test    # Ejecutar tests
+rake thtml    # Ejecutar las espectativas de la clase Matriz version html
+rake    # Ejecuta la tarea por defecto $rake spec
+rake -T    # Muestra las distintas opciones del rake para el programa implementado
+
 
 ## Installation
 
@@ -35,6 +36,7 @@ Or install it yourself as:
 
     $ gem install matrices
 
+    
 ## Usage
 
 TODO: Write usage instructions here
@@ -46,6 +48,18 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+
+## Links
+
+Gemnasium
+```
+https://gemnasium.com/alu0100207385/pract12
+```
+Travis
+```
+https://travis-ci.org/alu0100207385/pract12
+```
 
 ## Components group (M-15)
 

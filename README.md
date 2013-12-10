@@ -65,7 +65,7 @@ TODO: Write usage instructions here
 
 <a href="https://gemnasium.com/alu0100207385/pract12">Gemnasium</a> 
 
-<a href="https://travis-ci.org/alu0100207385/pract12"><Travis</a> 
+<a href="https://travis-ci.org/alu0100207385/pract12">Travis</a> 
 
 
 ## Components group (M-15)
